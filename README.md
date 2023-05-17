@@ -45,7 +45,7 @@ Further, the model will be a good way for management to understand the demand dy
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ShyamBasa] - feel free to contact me!
 
 
 <!-- Optional -->
